@@ -3,8 +3,10 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Emily Cooper. Nice to meet you.
+  Hi, my name is Evan Howard.
 ---
 
 <!-- this is a subheadline -->
-I'm a driven 20-something American from Chicago who moved to Paris for an unexpected job opportunity. I've been tasked with bringing an American point of view to a venerable French marketing firm. :fr:
+I am a Senior MIS student at Washington State University - Global Campus and I'll
+be graduating in May of 2023. I discovered my love and passion for data while at
+college and I'm excited to start working within this realm.

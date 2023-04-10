@@ -1,19 +1,17 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
-role: "Social media strategy @ Savoir"
+author: "Evan Howard"
+role: "Incoming Technology Assurance Audit Associate @ KPMG"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: true
-audio_link_label: "How to say my name"
+audio_link_label: "Grand Salaaami"
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Major League Baseball
+  url: https://www.mlb.com/
+- name: Music
+  url: https://open.spotify.com/playlist/37i9dQZF1DXasneILDRM7B?si=f73a66727a024da7
 ---
 
 ** index doesn't contain a body, just front matter above.
