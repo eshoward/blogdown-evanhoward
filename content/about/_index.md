@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: |
-  A Hugo theme made for R Markdown users.
+  More about Evan Howard.
 show_header: true
 sidebar_left: false
 # Keep this! Do not edit.
