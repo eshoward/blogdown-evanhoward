@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://evanhoward.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Evan Howard"
@@ -31,7 +31,7 @@ enableEmoji = true
   orgName = "Evan Howard"
   orgLocal = ""
   description = "Data Analytics for Evan Howard"
-  favicon = "/img/favicon.ico"
+  favicon = "/img/baseball2.png"
   logo = "/img/baseball2.png"
   mainSections = ["About Me", "Projects", "Blog"]
   navallcaps = true
