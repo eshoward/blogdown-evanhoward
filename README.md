@@ -369,8 +369,21 @@ content/
 └── form/
     └── contact.md
 ```
-
 Your new contact page contains auto-generated front matter that defines the form name, title, date, and url, and more. Most important is the `formspree_form_id` key. You can find this on the integration page which is displayed after you create a new form. It looks like `https://formspree.io/<hashid>`.
+
+For the Formspree form to work you first need to go to `formspree.io` and create your own account then create your own form. Once you have your new form made you need to copy the form's endpoint. It will look like `https://formspree.io/f/youruniquenamehere`. Go into `contact.md` and change the `formspree_form_id:` to your form's endpoint. 
+
+Next locate the `contact-form.html` file. Found below:
+```json
+themes/
+└── hugo-apero/
+    └── layouts/
+        └── partials/
+            └── shared/
+                └── contact-form.html
+```
+
+On the very first line you'll see text. Locate `action=` and in quotes paste your form's unique endpoint. Hit save and make sure to test your new submission form. If it is working, commit and push.
 
 You can also specify a description that will display below the title, choose a right or left position for the form itself via `layout`, set a preferred `submit_button_label`, and toggle a few things on or off.
 
