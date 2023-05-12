@@ -1,7 +1,9 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
-author: "The R Markdown Team @RStudio"
+title: Project Portfolio 
+description: "Here you will find projects of mine. They will usually be about 
+baseball, although sometimes I'll post a project on a different subject that
+interests me. "
+author: "Evan Howard"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
